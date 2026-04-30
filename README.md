@@ -1,7 +1,7 @@
 # Project Vision
-## 352 Legends Coaching Platform
+## Chalk Coaching Platform
 
-*The platform I built for my 352 Legends team — the product itself will get its own name for public release. "352 Legends" is the youth football program I coach for, not a brand I own.*
+  *The platform I built for my 352 Legends team — the product itself will get its own name for public release. "352Legends" is the youth football program I coach for, not a brand I own.*
 
 ---
 
@@ -17,7 +17,7 @@ This is what I've built so far — and what I'm working toward.
 
 ## What It Is Today
 
-352 Legends is a complete coaching platform for youth sports. It's built to be run by real volunteer coaches and leagues, not big companies.
+Chalk is a complete coaching platform for youth sports. It's built to be run by real volunteer coaches and leagues, not big companies.
 
 Right now it can do:
 
@@ -30,7 +30,7 @@ Right now it can do:
 - Parent and player portals (they can actually see their own data)
 - Coaching manual, drills, and practice plan builder
 
-Everything is free. Always. No subscriptions. You can run it yourself on a laptop or cheap server.
+Everything is free. Always. No subscriptions. You can run it yourself on a laptop or cheap server. The larger the server, the more data you can save.  it's simple.  you don't have to have a 3rd party holding your data.
 
 ## Why I'm Building This
 
