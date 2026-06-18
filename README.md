@@ -71,4 +71,4 @@ The code is open. The mission is simple.
 For the kids.
 
 — Nicholas
-Disabled Vet, Single Dad, Coach
+Disabled Vet, Dad, Coach
